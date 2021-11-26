@@ -1,6 +1,6 @@
 <?php
 $port = 1433;
-$serverName = "examenu3.azurewebsites.net" . $port;
+$serverName = "tcp:asd-exa.database.windows.net," . $port;
 $database = "musicapop_azure";
 $userName = "Student";
 $password = "Pa55w.rd";
